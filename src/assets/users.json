@@ -1,0 +1,18 @@
+[{
+    "firstname": "first",
+    "lastname": "name",
+    "age": "25",
+    "address": "Maple Shade",
+    "ssn": "3232",
+    "occupation": "software",
+    "comments": "This is just test user"
+  },
+  {
+    "firstname": "first",
+    "lastname": "lastname",
+    "age": "34",
+    "address": "Maple Shade",
+    "ssn": "3232",
+    "occupation": "software",
+    "comments": "This is just test user"
+  }]
